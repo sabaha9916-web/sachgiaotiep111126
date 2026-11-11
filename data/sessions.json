@@ -1,0 +1,23 @@
+{
+  "tok_a4edf98365a23f93b2e507706a23f0fd42911c4d6e5d957e": {
+    "userId": "admin_root",
+    "email": "admin",
+    "role": "admin",
+    "deviceId": "dev_admin_test",
+    "createdAt": "2026-11-10T11:18:02.772Z"
+  },
+  "tok_ec72678f0012b7605db1abd6422fd4d796ce40fb84f25b07": {
+    "userId": "usr_mwaljgzl_b9ca5673",
+    "email": "hocvien1@gmail.com",
+    "role": "member",
+    "deviceId": "dev_device_1",
+    "createdAt": "2026-11-10T11:18:10.879Z"
+  },
+  "tok_d7618bed4a78a8e383f52c75bce4fc4812f9f05a58e3c6fb": {
+    "userId": "usr_mwaljgzl_b9ca5673",
+    "email": "hocvien1@gmail.com",
+    "role": "member",
+    "deviceId": "dev_device_2",
+    "createdAt": "2026-11-10T11:19:12.579Z"
+  }
+}

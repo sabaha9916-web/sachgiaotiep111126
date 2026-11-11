@@ -1,0 +1,17 @@
+[
+  {
+    "id": "admin_root",
+    "email": "admin",
+    "password": "beihai9916@",
+    "fullName": "Quản Trị Viên (Admin)",
+    "role": "admin",
+    "startDate": "2026-01-01",
+    "durationMonths": 120,
+    "expireDate": "2036-12-31",
+    "isApproved": true,
+    "boundDeviceId": null,
+    "deviceInfo": "Không giới hạn thiết bị",
+    "createdAt": "2026-11-10T11:18:02.771Z",
+    "lastLoginAt": "2026-11-10T11:18:02.771Z"
+  }
+]
